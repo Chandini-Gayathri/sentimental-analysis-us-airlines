@@ -22,5 +22,3 @@ Natural Language Processing (NLP) and machine learning techniques.
 - Pandas, NumPy
 - NLTK / Scikit-learn
 - Matplotlib / Seaborn
-
-## Project Structure
